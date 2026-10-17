@@ -1,0 +1,6 @@
+{
+  "name": "MintVault - Smart Salary Splitter & Automated Wealth",
+  "description": "Autonomous multi-currency salary allocation, 50/30/20 cash engine, high-yield vault compounding, and smart sinking funds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
