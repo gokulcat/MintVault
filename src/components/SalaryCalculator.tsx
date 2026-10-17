@@ -161,7 +161,7 @@ export const SalaryCalculator: React.FC<SalaryCalculatorProps> = ({
     setTimeout(() => {
       setIsLocking(false);
       setIsLocked(true);
-      onShowToast('Payroll split instruction successfully confirmed with Chase & MintVault Treasury.', 'lock');
+      onShowToast('Payroll split instruction successfully confirmed with Chase & Wealthora Treasury.', 'lock');
     }, 1100);
   };
 
@@ -848,7 +848,7 @@ export const SalaryCalculator: React.FC<SalaryCalculatorProps> = ({
             <div className="flex items-center justify-between pt-1 text-xs text-[#3d4a42]">
               <span>Target Recipient:</span>
               <span className="font-headline text-xs font-bold text-[#006948]">
-                MintVault Treasury HYSA
+                Wealthora Treasury HYSA
               </span>
             </div>
           </div>

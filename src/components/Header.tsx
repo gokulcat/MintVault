@@ -40,12 +40,12 @@ export const Header: React.FC<HeaderProps> = ({
             onClick={() => setActiveTab('salary-calculator')}
           >
             <img
-              alt="MintVault Logo"
+              alt="Wealthora Logo"
               className="h-8 w-auto object-contain"
               src="https://lh3.googleusercontent.com/aida/AEtjO1X0p7kQoSBzW-wpxhXHZ5rs-siiKjHU4vEUjW6A-YvqbOlnGXSI1O7yHpy8geutjSMLY-3K5caSGxAVKMbz8a8YHdr23dTtOs5LFXm5XgfP8o5NIAnZdRy44MWu6_x_89Vtt1UCLtSvn9PfL5XRQJvhteYRyKQH-03PtJViPaET5n7tJ-aAYxMd1ZAkCb0tLrKpfpkH4V2BJzo9pCfAFIDlRsDBJhR9YJ6smK-KvFscAoTCt6PYG4W8UD4"
             />
             <span className="font-headline text-[17px] font-bold text-[#0b1c30] tracking-tight shrink-0 hidden sm:inline-block">
-              MintVault
+              Wealthora
             </span>
           </div>
 

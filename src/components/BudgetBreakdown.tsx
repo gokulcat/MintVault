@@ -551,7 +551,7 @@ export const BudgetBreakdown: React.FC<BudgetBreakdownProps> = ({
                   Live Automated Expense Streams
                 </h3>
                 <p className="text-xs text-[#3d4a42]">
-                  Real-time ledger categorized by MintVault machine classifier in {currentCurrency}.
+                  Real-time ledger categorized by Wealthora machine classifier in {currentCurrency}.
                 </p>
               </div>
               <span className="text-xs font-bold text-[#006948] px-3 py-1 bg-[#e5eeff] rounded-xl">
@@ -752,7 +752,7 @@ export const BudgetBreakdown: React.FC<BudgetBreakdownProps> = ({
                 </span>
               </div>
               <p className="text-[11px] text-[#3d4a42]">
-                Assumes surplus routed directly to MintVault index at historical 7.2% annual net returns.
+                Assumes surplus routed directly to Wealthora index at historical 7.2% annual net returns.
               </p>
             </div>
 

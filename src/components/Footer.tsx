@@ -14,7 +14,7 @@ export const Footer: React.FC = () => {
         <div className="flex items-center gap-6 text-[#3d4a42] text-xs font-semibold">
           <a
             href="#security"
-            onClick={(e) => { e.preventDefault(); alert("MintVault adheres to SOC2 Type II, ISO 27001, and 256-bit AES end-to-end payload encryption."); }}
+            onClick={(e) => { e.preventDefault(); alert("Wealthora adheres to SOC2 Type II, ISO 27001, and 256-bit AES end-to-end payload encryption."); }}
             className="hover:text-[#0b1c30] transition-colors"
           >
             Security Overview
@@ -36,7 +36,7 @@ export const Footer: React.FC = () => {
         </div>
 
         <p className="text-xs text-[#3d4a42]">
-          &copy; 2025 MintVault Technologies Inc. All rights reserved.
+          &copy; 2025 Wealthora Technologies Inc. All rights reserved.
         </p>
       </div>
     </footer>
